@@ -1,0 +1,28 @@
+body {
+    background-color: #ddd4c2;
+}
+main {
+    display: flex;
+}
+.content{
+    width: 500px;
+}
+.title {
+    color: #eb7c0e;
+    font-size: 30px;
+    text-align: center;
+}
+table {
+    width: 500px;
+}
+table, th, td {
+    border: 1px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+}
+.img {
+    margin-left: 0px;
+    width: 300px;
+}
+.white {
+    background-color: rgb(255, 255, 255);
+}

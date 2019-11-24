@@ -1,0 +1,27 @@
+.body{
+    width: auto;
+    height: auto;
+}
+.head{
+    padding-top: 20px;
+    padding-left: 500px ;
+   
+}
+.me {
+    background-color: #fecffd;
+    color: #ff3399;
+    text-align: center;
+    font-weight: 500px;
+}
+.content1 p{
+    color: #0000ff;
+    text-align: center;
+}
+.content2 p {
+    color: #b65800;
+    text-align: center;
+}
+.content3 p{
+    color: #006600;
+    text-align: center;
+}

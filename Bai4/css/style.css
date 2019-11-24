@@ -1,0 +1,13 @@
+
+      body {
+        color: #008888;
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShAP6clVSABwrG6MgB4Hain2Ps5tCWgai_SLdLRW3W7HHFlYEm_Q&s);
+      }
+      .title {
+        text-align: center;
+      }
+      .content {
+        color: white;
+        background-color: #008888;
+      }
+    

@@ -1,0 +1,12 @@
+.title {
+    color: rgb(255, 0, 119);
+    text-align: center;
+}
+.img {
+    margin-top: 10%;
+    height: 400px;
+    width: 350px;
+}
+.wrapper{
+    display: flex;
+}
